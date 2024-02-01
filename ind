@@ -1,0 +1,10 @@
+   G e n e r a t e d  by ex4-to-mq4 decompiler FREEWARE 4.0.509.5
+   Website: H TT p: / / WWW . m e TAQ UO Tes .nEt
+   E-mail : SU pp OR t @Me TAqu ot eS . NeT
+*/
+#property copyright "BrainTrading Inc."
+#property link      "www.forex-tsd.com"
+#property indicator_chart_window
+#property indicator_buffers 2
+#property indicator_color1 Blue
+#property indicator_color2 Red
